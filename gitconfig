@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lazari.pro√@gmail.com
+	name = el azhari tifour
